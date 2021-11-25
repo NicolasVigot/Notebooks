@@ -1,2 +1,2 @@
 # Notebooks-
-Notebooks Jupyter à mettre à disposition pour les formations et les mutualisations.
+Notebooks Jupyter à mettre à disposition pour les cours et les formations.
